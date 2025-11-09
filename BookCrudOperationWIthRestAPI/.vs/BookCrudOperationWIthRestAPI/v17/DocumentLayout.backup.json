@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\services\\interfaces\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\services\\interfaces\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\repository\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\repository\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|d:\\asp.net core\\asp.net core\\projects\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\bookcrudoperationwithrestapi\\dataacess\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE74E2-0EB4-4F83-8B58-4705D64CE960}|BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj|solutionrelative:bookcrudoperationwithrestapi\\dataacess\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:56:25.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookCrudOperationWIthRestAPI",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T22:02:32.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookServices.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Services\\Interfaces\\IBookServices.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Services\\Interfaces\\IBookServices.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Services\\Interfaces\\IBookServices.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Services\\Interfaces\\IBookServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:54:39.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Program.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Program.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:04:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T22:08:28.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Services\\BookServices.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Services\\BookServices.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Services\\BookServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:03:19.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\appsettings.json",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\appsettings.json",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T22:02:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\appsettings.Development.json",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T22:05:04.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookCrudOperationWIthRestAPI",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T20:53:57.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Repository\\BookRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:07:18.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:52:46.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Models\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Models\\BookViewModel.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Models\\BookViewModel.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Models\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:17:54.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Entity\\Book.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Entity\\Book.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:06:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:05:44.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:47:16.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\DataAcess\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BookCrudOperationWIthRestAPI\\DataAcess\\BookConfiguration.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\Projects\\BookCrudOperationWithRestAPI\\BookCrudOperationWIthRestAPI\\BookCrudOperationWIthRestAPI\\DataAcess\\BookConfiguration.cs",
+              "RelativeToolTip": "BookCrudOperationWIthRestAPI\\DataAcess\\BookConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:03:44.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
