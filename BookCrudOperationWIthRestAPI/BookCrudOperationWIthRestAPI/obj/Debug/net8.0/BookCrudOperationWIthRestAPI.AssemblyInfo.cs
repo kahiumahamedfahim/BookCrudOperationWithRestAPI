@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookCrudOperationWIthRestAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2119266e81626d5ee6b28868bf14fbc63aa8c476")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa47f455a9305dcefca646f3ebf4bc5cd5cf797d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookCrudOperationWIthRestAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookCrudOperationWIthRestAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

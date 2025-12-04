@@ -59,6 +59,16 @@
   },
   {
     "ContainingType": "BookCrudOperationWIthRestAPI.Controllers.BookController",
+    "Method": "GetPosts",
+    "RelativePath": "api/Book/GetPosts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookCrudOperationWIthRestAPI.Controllers.BookController",
     "Method": "UpdateBook",
     "RelativePath": "api/Book/Update/{id}",
     "HttpMethod": "PUT",

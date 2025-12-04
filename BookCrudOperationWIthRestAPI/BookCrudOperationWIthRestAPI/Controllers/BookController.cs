@@ -2,21 +2,28 @@
 using BookCrudOperationWIthRestAPI.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.RateLimiting;
 
 namespace BookCrudOperationWIthRestAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableRateLimiting("Fixed")]
     public class BookController : ControllerBase
     {
         private readonly IBookServices _bookService;
-        public BookController(IBookServices bookServices)
+        private readonly IHttpClientFactory _httpClientFactory;
+        public BookController(IBookServices bookServices , IHttpClientFactory clientFactory)
         {
             _bookService = bookServices;
+            _httpClientFactory = clientFactory;
+
+
         }
 
         // GET: api/Book/GetAll
         [HttpGet("GetAll")]
+        [EnableRateLimiting("sliding")]
         public IActionResult GetAllBooks()
         {
             try
@@ -54,6 +61,7 @@ namespace BookCrudOperationWIthRestAPI.Controllers
 
         // POST: api/Book/Create
         [HttpPost("Create")]
+        [DisableRateLimiting]
         public IActionResult CreateBook([FromBody] BookViewModel bookVm)
         {
             try
@@ -104,6 +112,24 @@ namespace BookCrudOperationWIthRestAPI.Controllers
             {
                 return StatusCode(500, new { message = "Error deleting book", error = ex.Message });
             }
+        }
+        //add a third party api 
+        [HttpGet("GetPosts")]
+        [DisableRateLimiting]
+        public async Task<IActionResult> GetPosts()
+        {
+            try
+            {
+                var client = _httpClientFactory.CreateClient();
+                var result = await client.GetAsync("https://jsonplaceholder.typicode.com/posts");
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode (500, $"Internal Server Error : {ex.Message}");
+            }
+
+            
         }
     }
 }
